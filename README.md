@@ -1,2 +1,20 @@
-pdf-to-audio
-Simple PDF-to-Audio converter using Python. Select a PDF file via GUI and listen to the text using pyttsx3.
+# PDF Voice Reader 🎧
+
+Простой инструмент на Python для конвертации текста из PDF-файлов в голосовую речь. Проект позволяет выбрать файл через удобный графический интерфейс и прослушать его содержимое.
+
+## ⚙️ Функционал
+* **Выбор файла:** Использование проводника Windows (Tkinter) для выбора PDF.
+* **Text-to-Speech:** Озвучка текста с помощью библиотеки `pyttsx3`.
+* **Настройка:** Возможность изменения голоса и скорости чтения.
+
+## 🛠 Технологии
+* **Python 3.11+**
+* **pypdf** — для обработки PDF-документов.
+* **pyttsx3** — для синтеза речи.
+* **Tkinter** — для графического интерфейса.
+
+## 🚀 Инструкция по запуску
+
+1. **Клонируйте репозиторий:**
+   ```bash
+   git clone [https://github.com/ваш-никнейм/pdf-to-audio.git](https://github.com/ваш-никнейм/pdf-to-audio.git)
