@@ -13,8 +13,4 @@
 * **pyttsx3** — для синтеза речи.
 * **Tkinter** — для графического интерфейса.
 
-## 🚀 Инструкция по запуску
 
-1. **Клонируйте репозиторий:**
-   ```bash
-   git clone [https://github.com/ваш-никнейм/pdf-to-audio.git](https://github.com/ваш-никнейм/pdf-to-audio.git)
